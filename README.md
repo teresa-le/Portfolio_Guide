@@ -9,7 +9,15 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 - [Python](#python)
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
+- [Excel](#excel) 
 - [Other](#other)
+
+
+# Excel
+| Project Link | Project Description | 
+|---|---|
+| 🩳 [Lululemon Merchandising Job Simulation](https://github.com/teresa-le/Lululemon_Merchandising_Analysis) | Using Excel functions and pivot tables, I created an on-order log and summarized findings to assist with inventory management & financial planning and calculated full-price sell-through to assist with real-time decisions to appropriately manage lululemon's inventory. 
+
 
 # Other 
 | Project Link | Project Description | 
