@@ -12,6 +12,11 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 - [Excel](#excel) 
 - [Other](#other)
 
+# Power BI 
+| Project Link | Project Description | 
+|---|---|
+| 🌙 [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | I created a dashboard and visualized data using Power BI and DAX queries to help executives decide which categories to invest in, which ones to monitor and which ones to divest from by defining KPIs.
+
 
 # Excel
 | Project Link | Project Description | 
