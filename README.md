@@ -6,7 +6,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Python](#python)
+- [Python/R](#python-r)
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
 - [Excel](#excel) 
