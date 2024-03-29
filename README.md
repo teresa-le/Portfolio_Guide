@@ -12,6 +12,12 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 - [Excel](#excel) 
 - [Other](#other)
 
+
+# SQL 
+| Project Link | Project Description | 
+|---|---|
+| 👷 [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | I performed an analysis on employees retirements to assist with making decisions regarding hiring strategies using data modeling, SQL (postgreSQL) and pgAdmin.
+
 # Tableau  
 | Project Link | Project Description | 
 |---|---|
