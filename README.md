@@ -12,6 +12,11 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 - [Excel](#excel) 
 - [Other](#other)
 
+# Tableau  
+| Project Link | Project Description | 
+|---|---|
+| 🚲 [Citi Bike Trips Analysis](https://github.com/teresa-le/Bikesharing) | I created a Tableau story and analyzed Citi bike rides in NYC to provide insights on the bikesharing business so that it could be used to help develop a business case for starting a bikesharing business elsewhere.
+
 # Power BI 
 | Project Link | Project Description | 
 |---|---|
