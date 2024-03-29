@@ -18,6 +18,11 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 |---|---|
 | 👷 [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | I performed an analysis on employees retirements to assist with making decisions regarding hiring strategies using data modeling, SQL (postgreSQL) and pgAdmin.
 
+# Python
+| Project Link | Project Description | 
+|---|---|
+| 🗳️ [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | I automated the generation of a report summarizing the results of an election.
+
 # Tableau  
 | Project Link | Project Description | 
 |---|---|
