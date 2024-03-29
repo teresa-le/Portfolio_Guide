@@ -18,10 +18,11 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 |---|---|
 | 👷 [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | I performed an analysis on employees retirements to assist with making decisions regarding hiring strategies using data modeling, SQL (postgreSQL) and pgAdmin.
 
-# Python
-| Project Link | Project Description | 
+# Python-&-R
+| Project Link | Skills Used | Project Description | Libraries 
 |---|---|
-| 🗳️ [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | I automated the generation of a report summarizing the results of an election.
+| 🗳️ [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed a statistical analysis using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team | - 
+| 🗳️ [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election | csv, os 
 
 # Tableau  
 | Project Link | Project Description | 
