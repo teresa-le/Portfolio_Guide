@@ -20,7 +20,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 
 # Python-&-R
 | Project Link | Skills Used | Project Description | Libraries 
-|---|---|
+|---|---|---|---|
 | 🗳️ [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed a statistical analysis using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team | - 
 | 🗳️ [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election | csv, os 
 
