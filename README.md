@@ -18,10 +18,11 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 |---|---|
 | 👷 [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | I performed an analysis on employees retirements to assist with making decisions regarding hiring strategies using data modeling, SQL (postgreSQL) and pgAdmin.
 
-# Python-&-R
-| Project Link | Skills Used | Project Description | Libraries 
+# Python & R 
+| Project Link | Skills/Areas of Knowledge Used | Project Description | Libraries 
 |---|---|---|---|
-| 🗳️ [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed a statistical analysis using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team | - 
+| 🚗 [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. | - 
+
 | 🗳️ [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election | csv, os 
 
 # Tableau  
@@ -42,7 +43,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 
 
 # Other 
-| Project Link | Project Description | 
+| Project Link | Skills/Areas of Knowledged Used | Project Description | 
 |---|---|
-| 🚗 [PRKR App](https://docs.google.com/presentation/d/1RgJp-cxrVsqAsje2zU_8VXxksKuIg3JO/edit#slide=id.p18) | For this project, my team and I brainstormed startup ideas and developed a digital app solution that reduces the amount of time it takes to find, reserve and rent out privately-owned parking spaces. We crafted a comprehensive digital marketing plan to promote the app, outlining strategies for online advertising, social media engagement & user acquisition, and I facilitated communication between cross-functional teams, tracked and coordinated project tasks & deliverables to ensure that they were completed on time.
+| 🚗 [PRKR App](https://docs.google.com/presentation/d/1RgJp-cxrVsqAsje2zU_8VXxksKuIg3JO/edit#slide=id.p18) | Business Analysis, Project Coordination, Facilitation, Entrepreneurship, Innovation | For this project, my team and I brainstormed startup ideas and developed a digital app solution that reduces the amount of time it takes to find, reserve and rent out privately-owned parking spaces. We crafted a comprehensive digital marketing plan to promote the app, outlining strategies for online advertising, social media engagement & user acquisition, and I facilitated communication between cross-functional teams, tracked and coordinated project tasks & deliverables to ensure that they were completed on time.
 
