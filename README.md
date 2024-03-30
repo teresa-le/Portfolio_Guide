@@ -23,8 +23,8 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 | Project Link | Skills/Areas of Knowledge Used | Project Description | Libraries 
 |---|---|---|---|
 | [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. | - 
-| [Instabasket Analysis](https://github.com/teresa-le/Instabasket_Analysis) | Python, Excel, Tableau, Exploratory Data Analysis, Data Wrangling | My team and I selected the top 1000 products to create an aisle for Instabasket shoppers to improve efficiency, customer satisfaction and profits and provided recommendations for implementation. 
-| [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python, Data | I automated the generation of a report summarizing the results of an election | csv, os 
+| [Instabasket Analysis](https://github.com/teresa-le/Instabasket_Analysis) | Python, Excel, Tableau, Exploratory Data Analysis, Data Wrangling | My team and I selected the top 1000 products to create an aisle for Instabasket shoppers to improve efficiency, customer satisfaction and profits and provided recommendations for implementation. | matplotlib, scipy, numpy, pandas
+| [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
 
 # Tableau  
