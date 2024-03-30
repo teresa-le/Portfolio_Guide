@@ -2,7 +2,7 @@
 
 # 🗺 Teresa's Portfolio 
 
-Welcome to my portfolio! My portfolio guide is a summary of my projects. 
+Welcome to my portfolio! My portfolio guide is a summary of my projects. I have grouped my projects based on the predominant technical skill used. 
 
 ## 📚 Table of Contents
 - [SQL](#sql)
@@ -23,7 +23,8 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects.
 | Project Link | Skills/Areas of Knowledge Used | Project Description | Libraries 
 |---|---|---|---|
 | [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses using R on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. | - 
-| [Instabasket Analysis](https://github.com/teresa-le/Instabasket_Analysis) | Python, Excel, Tableau, Exploratory Data Analysis, Data Wrangling | My team and I selected the top 1000 products to create an aisle for Instabasket shoppers to improve efficiency, customer satisfaction and profits and provided recommendations for implementation. | matplotlib, scipy, numpy, pandas
+| [Instabasket Analysis](https://github.com/teresa-le/Instabasket_Analysis) | Python, Excel, Tableau, Exploratory Data Analysis, Data Wrangling | My team and I selected the top 1000 products to create an aisle for Instabasket shoppers to improve efficiency, customer satisfaction and profits and provided recommendations for implementation. | matplotlib, scipy, numpy, pandas 
+| [Video Games Sales Analysis](https://github.com/teresa-le/Video_Games_Sales_Analysis) | Python, R, Tableau, SQL | My team and I used Python & R to develop ML models to predict sales, and we derived insights on worldwide video games sales using Tableau and SQL | - 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
 
