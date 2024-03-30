@@ -24,7 +24,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 |---|---|---|---|
 | [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. | - 
 | [Instabasket Analysis](https://github.com/teresa-le/Instabasket_Analysis) | Python, Excel, Tableau, Exploratory Data Analysis, Data Wrangling | My team and I selected the top 1000 products to create an aisle for Instabasket shoppers to improve efficiency, customer satisfaction and profits and provided recommendations for implementation. | matplotlib, scipy, numpy, pandas 
-| [Neural Network Charity Analysis](https://github.com/teresa-le/Neural_Network_Charity_Analysis) | Python 
+| [Neural Network Charity Analysis](https://github.com/teresa-le/Neural_Network_Charity_Analysis) | Python, Machine Learning | I developed a neural network model to predict which non-profits an organization should donate to. | tensorflow, scikit-learn
 | [Pyber Analysis](https://github.com/teresa-le/PyBer_Analysis) | Python, Data Wrangling | I performed an exploratory analysis and visualized rideshare data to provide insights that could be used to help improve access to ridesharing services and determine affordability for underserved neighbourhoods. | matplotlib, pandas 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
