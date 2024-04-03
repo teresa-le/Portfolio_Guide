@@ -11,7 +11,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
 - [Excel](#excel) 
-- [Strategy, Analysis & Entrepreneurship](#Strategy, Analysis & Entrepreneurship Projects)
+- [Strategy, Analysis & Entrepreneurship](#other)
 
 
 # SQL 
@@ -36,7 +36,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 # R
 | Project Link | Skills/Areas of Knowledge Used | Project Description | 
 |---|---|---|
-| [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. 
+| [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear regression model to predict miles per gallon. 
 
 
 # Tableau  
