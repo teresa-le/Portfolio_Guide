@@ -33,6 +33,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Pyber Analysis](https://github.com/teresa-le/PyBer_Analysis) | Python, Data Wrangling | I performed an exploratory analysis and visualized rideshare data to provide insights that could be used to help improve access to ridesharing services and determine affordability for underserved neighbourhoods. | matplotlib, pandas 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
+## Machine Learning
 
 # Tableau  
 | Project Link | Project Description | 
@@ -56,5 +57,4 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | Project Link | Skills/Areas of Knowledge Used | Project Description | 
 |---|---|---|
 | [PRKR App](https://docs.google.com/presentation/d/1RgJp-cxrVsqAsje2zU_8VXxksKuIg3JO/edit#slide=id.p18) | Business Analysis, Digital Marketing, Entrepreneurship | <p>For this project, my team and I brainstormed startup ideas and developed a digital app solution that reduces the amount of time it takes to find, reserve and rent out privately-owned parking spaces.</p><p>We crafted a comprehensive digital marketing plan to promote the app, outlining strategies for online advertising, social media engagement & user acquisition, and I facilitated communication between cross-functional teams, tracked and coordinated project tasks & deliverables to ensure that they were completed on time.</p>
-| [Junpier Analysis](https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis) | Strategy & Operations Analysis, Tableau, SQL, Excel | A delivery startup launched in NYC, and we analyzed their performance to propose a strategy on how to improve revenue. 
-
+| [Junpier Analysis](https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis) | Strategy & Operations Analysis, Tableau, SQL, Excel | Working with an industry mentor working within BizOps, my team and I 
