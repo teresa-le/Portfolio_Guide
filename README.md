@@ -33,18 +33,18 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Pyber Analysis](https://github.com/teresa-le/PyBer_Analysis) | Python, Data Wrangling | I performed an exploratory analysis and visualized rideshare data to provide insights that could be used to help improve access to ridesharing services and determine affordability for underserved neighbourhoods. | matplotlib, pandas 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
-## Machine Learning
 
 # Tableau  
-| Project Link | Project Description | 
-|---|---|
-| [Citi Bike Trips Analysis](https://github.com/teresa-le/Bikesharing) | I created a Tableau story and analyzed Citi bike rides in NYC to provide insights on the bikesharing business so that it could be used to help develop a business case for starting a bikesharing business elsewhere.
+| Project Link | Skills/Areas of Knowledge Used | Project Description | Dashboard/Story Link 
+|---|---|---|
+| [Citi Bike Trips Analysis](https://github.com/teresa-le/Bikesharing) | Python, Tableau, Data Visualization, Data Wrangling | I visualized the Citi bike rides in NYC dataset to provide insights on the bikesharing business so that it could be used to help develop a business case for launching a similar venture elsewhere. | <a href="https://public.tableau.com/app/profile/teresa.le8009/viz/CitiBikeRidesChallenge/CitiBikesTripsStory">Story</a> 
 
+To furnish stakeholders with actionable data that could fuel the development of a robust business case for launching similar ventures elsewhere. This endeavor not only illuminates the nuances of bike-sharing in NYC but also serves as a roadmap for aspiring entrepreneurs looking to replicate and thrive in other urban landscapes.
 
 # Power BI 
 | Project Link | Skills/Areas of Knowledge Used | Project Description | 
 |---|---|---|
-| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs | I created a dashboard and visualized data using Power BI and DAX queries to help executives decide which categories to invest in, which ones to monitor and which ones to divest from by defining KPIs.
+| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from.
 
 
 # Excel
@@ -57,4 +57,4 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | Project Link | Skills/Areas of Knowledge Used | Project Description | 
 |---|---|---|
 | [PRKR App](https://docs.google.com/presentation/d/1RgJp-cxrVsqAsje2zU_8VXxksKuIg3JO/edit#slide=id.p18) | Business Analysis, Digital Marketing, Entrepreneurship | <p>My team and I brainstormed startup ideas and developed a digital app solution aimed at streamlining the process of finding, reserving, and renting privately-owned parking spaces.</p><p>We crafted a comprehensive digital marketing plan to promote the app, outlining strategies for online advertising, social media engagement & user acquisition, and we pitched the solution to industry mentors.</p>
-| [Juniper Analysis](https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis) | Strategy & Operations Analysis, Tableau, SQL, Excel | Under the mentorship of an industry mentor working in BizOps, my team utilized strategic thinking and analytical skills to identify the issues with the performance of a delivery startup's new launch and identified key opportunities for expansion and revenue enhancement. 
+| [Juniper Analysis](https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis) | Strategy & Operations Analysis, Tableau, SQL, Excel | Under the mentorship of an industry mentor working in BizOps, my team utilized strategic thinking and analytical skills to identify the issues with the performance of a delivery startup's new launch and identified key opportunities for expansion and revenue enhancement ($22k increase in revenue per month).
