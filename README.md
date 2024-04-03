@@ -34,9 +34,9 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
 # R
-| Project Link | Project Description | 
-|---|---|
-| [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. | - 
+| Project Link | Skills/Areas of Knowledge Used | Project Description | 
+|---|---|---|
+| [MechaCar Statistical Analysis](https://github.com/teresa-le/MechaCar_Statistical_Analysis) | R, Statistical Analysis, Linear Regression, T-tests | I performed statistical analyses on the MechaCar prototype production data to gain insights on the production issues for the manufacturing team and created a linear model to predict miles per gallon. 
 
 
 # Tableau  
