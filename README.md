@@ -36,7 +36,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 
 # Tableau  
 | Project Link | Skills/Areas of Knowledge Used | Project Description | Dashboard/Story Link 
-|---|---|---|
+|---|---|---|---|
 | [Citi Bike Trips Analysis](https://github.com/teresa-le/Bikesharing) | Python, Tableau, Data Visualization, Data Wrangling | I visualized the Citi bike rides in NYC dataset to provide insights on the bikesharing business so that it could be used to help develop a business case for launching a similar venture elsewhere. | <a href="https://public.tableau.com/app/profile/teresa.le8009/viz/CitiBikeRidesChallenge/CitiBikesTripsStory">Story</a> 
 
 # Power BI 
