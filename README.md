@@ -10,7 +10,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
 - [Excel](#excel) 
-- [Other Analytical & Strategy Projects](#other)
+- [Strategy, Analysis & Entrepreneurship](#other)
 
 
 # SQL 
@@ -28,6 +28,8 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Amazon Vine Analysis](https://github.com/teresa-le/Amazon_Vine_Analysis) | Python, ETL
 | [Credit Risk Analysis](https://github.com/teresa-le/Credit_Risk_Analysis) | Python, Data Wrangling, Machine Learning (Supervised) | I developed supervised machine learning models to predict credit risk. | 
 |[Cryptocurrencies](https://github.com/teresa-le/Cryptocurrencies/tree/main)  | Python, Data Wrangling, Machine Learning (Unsupervised) | I found and grouped similar cryptocurrencies that were being traded using clustering. | pandas, path, plotly, sklearn 
+|[Surfs Up Analysis](https://github.com/teresa-le/Surfs_Up) | 
+|[World Weather Analysis](https://github.com/teresa-le/World_Weather_Analysis) | 
 | [Pyber Analysis](https://github.com/teresa-le/PyBer_Analysis) | Python, Data Wrangling | I performed an exploratory analysis and visualized rideshare data to provide insights that could be used to help improve access to ridesharing services and determine affordability for underserved neighbourhoods. | matplotlib, pandas 
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of an election. | csv, os 
 
@@ -50,7 +52,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Lululemon Merchandising Job Simulation](https://github.com/teresa-le/Lululemon_Merchandising_Analysis) | Pivot Tables & Excel Functions e.g. IF, Merchandising, Financial Planning, Market Research | Using Excel functions and pivot tables, I created an on-order log and summarized findings to assist with inventory management & financial planning and calculated full-price sell-through to assist with real-time decisions to appropriately manage lululemon's inventory. 
 
 
-# Other Analytical & Strategy Projects 
+# Strategy, Analysis & Entrepreneurship Projects  
 | Project Link | Skills/Areas of Knowledge Used | Project Description | 
 |---|---|---|
 | [PRKR App](https://docs.google.com/presentation/d/1RgJp-cxrVsqAsje2zU_8VXxksKuIg3JO/edit#slide=id.p18) | Business Analysis, Digital Marketing, Entrepreneurship | <p>For this project, my team and I brainstormed startup ideas and developed a digital app solution that reduces the amount of time it takes to find, reserve and rent out privately-owned parking spaces.</p><p>We crafted a comprehensive digital marketing plan to promote the app, outlining strategies for online advertising, social media engagement & user acquisition, and I facilitated communication between cross-functional teams, tracked and coordinated project tasks & deliverables to ensure that they were completed on time.</p>
