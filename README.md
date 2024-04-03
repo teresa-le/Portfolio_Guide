@@ -11,7 +11,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 - [Tableau](#tableau)
 - [Power BI](#power-bi)
 - [Excel](#excel) 
-- [Strategy, Analysis & Entrepreneurship](#other)
+- [Strategy, Analysis & Entrepreneurship](#Strategy, Analysis & Entrepreneurship Projects)
 
 
 # SQL 
