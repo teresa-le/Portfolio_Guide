@@ -10,7 +10,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 - [R](#r)
 - [Data Visualization](#data-visualization) 
 - [Excel](#excel) 
-- [Strategy & Analysis](#strategy-&-analysis)
+- [Strategy & Analysis](#strategy-%26-analysis)
 
 
 # SQL 
