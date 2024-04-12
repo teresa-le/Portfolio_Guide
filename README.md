@@ -27,8 +27,6 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | [Amazon Vine Analysis](https://github.com/teresa-le/Amazon_Vine_Analysis) | Python, ETL
 | [Credit Risk Analysis](https://github.com/teresa-le/Credit_Risk_Analysis) | Python, Data Wrangling, Machine Learning (Supervised) | I developed supervised machine learning models to predict credit risk. | 
 |[Cryptocurrencies](https://github.com/teresa-le/Cryptocurrencies/tree/main)  | Python, Data Wrangling, Machine Learning (Unsupervised) | I found and grouped similar cryptocurrencies that were being traded using clustering. | pandas, path, plotly, sklearn 
-|[Surfs Up Analysis](https://github.com/teresa-le/Surfs_Up) | 
-|[World Weather Analysis](https://github.com/teresa-le/World_Weather_Analysis) | 
 | [Pyber Analysis](https://github.com/teresa-le/PyBer_Analysis) | Python, Data Wrangling | I performed an exploratory analysis and visualized rideshare data to provide insights that could be used to help improve access to ridesharing services and determine affordability for underserved neighbourhoods. | matplotlib, pandas 
 | [Election Analysis](https://github.com/teresa-le/Election_Analysis) | Python | I automated the generation of a report summarizing the results of a U.S. Congressional election using Python, ensuring accuracy and efficiency in certifying the election results. | csv, os 
 
