@@ -17,6 +17,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | Project Link | Project Description | 
 |---|---|
 | [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | I analyzed employee retirements to assist with forecasting future vacancies using data modeling, SQL (postgreSQL) and pgAdmin.
+| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs, SQL, Data Modeling, ETL | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from. 
 
 
 # Python 
@@ -40,7 +41,7 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 | Project Link | Skills/Areas of Knowledge Used | Project Description 
 |---|---|---|
 | [Citi Bike Trips Analysis](https://github.com/teresa-le/Bikesharing) | Python, Tableau, Data Visualization, Data Wrangling | I visualized the Citi bike rides in NYC dataset to provide insights on the bikesharing business so that it could be used to help develop a business case for launching a similar venture elsewhere. 
-| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from. 
+| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs, SQL, Data Modeling, ETL | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from. 
 
 
 # Excel
