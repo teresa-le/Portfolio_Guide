@@ -15,9 +15,9 @@ Welcome to my portfolio! My portfolio guide is a summary of my projects. I have 
 
 # SQL 
 | Project Link | Skills/Areas of Knowledge Used | Project Description |
-|---|---|
-| [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | SQL, Data Modeling | I analyzed employee retirements to assist with forecasting future vacancies using data modeling, SQL (postgreSQL) and pgAdmin.
-| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs, SQL, Data Modeling, ETL | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from. 
+|---|---|---|
+| [Pewlett Hackard Analysis](https://github.com/teresa-le/Pewlett_Hackard_Analysis) | SQL, Data Modeling, PgAdmin |  I analyzed employee retirements to assist with forecasting future vacancies using data modeling, SQL (postgreSQL) and pgAdmin.
+| [Luna Ecommerce Platform Dashboard](https://github.com/teresa-le/Luna_Ecommerce_Dashboard) | DAX Queries, Data Visualization, Defining KPIs, SQL, Data Modeling, PgAdmin, ETL | I defined KPIs, created a dashboard and visualized data using Power BI & DAX queries to help executives decide which product categories to invest in, which ones to monitor, and which ones to divest from. 
 
 
 # Python 
